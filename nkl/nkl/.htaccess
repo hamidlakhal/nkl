@@ -1,0 +1,2 @@
+
+SetEnvIf Request_URI '^.*' SECURITAS_IGNORE_PHP_ERRORS
